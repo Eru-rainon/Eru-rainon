@@ -1,4 +1,8 @@
-## Hi there 👋
+Name : John Paul
+Age : 21
+
+I'm ~~currently working on~~ probably playing a video game rn.
+
 
 <!--
 **Eru-rainon/Eru-rainon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
